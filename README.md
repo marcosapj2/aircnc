@@ -7,17 +7,14 @@ Projeto baseado no Airbnb, o Aircnc(Air Coffee And Code) foi feito na intenção
 
 <img src="banner.png" alt="project banner"/>
 </p><br/>
-  
+
 # Stack
 
-- Web
-  - \* [check package.json](/web/package.json)
+Web [check package.json](/web/package.json)
 
-- Mobile
-  - \* [check package.json](/mobile/package.json)  
+Mobile [check package.json](/mobile/package.json)  
 
-- Server
-  - \* [check package.json](/server/package.json)
+Server [check package.json](/server/package.json)
 
 # License
 [MIT License](https://github.com/marcosapj2/aircnc/blob/master/LICENSE)
