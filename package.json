@@ -1,0 +1,17 @@
+{
+  "name": "aircnc",
+  "description": "Airbnb like (Air Coffee & Code) to booking spots for developers",
+  "version": "1.0.0",
+  "main": "",
+  "repository": "https://github.com/marcosapj2/aircnc.git",
+  "author": "Marcos Aurélio <marcosapj2@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev:server": "nodemon server/src/server.js",
+    "dev:website": "cd website && yarn start",
+    "dev:mobile": "cd mobile && yarn start"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}

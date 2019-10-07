@@ -1,0 +1,21 @@
+{
+  "name": "aircnc-server",
+  "description": "Airbnb like (Air Coffee & Code) to booking spots for developers",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "author": "Marcos Aurélio",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "internal-ip": "^4.3.0",
+    "mongoose": "^5.7.3",
+    "multer": "^1.4.2",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {}
+}
